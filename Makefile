@@ -1,5 +1,5 @@
 start::
-	ruby ./error.rb
+	bundle exec ruby ./error.rb
 
 deploy::
 	eb deploy

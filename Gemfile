@@ -1,7 +1,3 @@
 source 'http://rubygems.org'
 gem 'sinatra'
 gem 'sinatra-reloader'
-gem 'redis'
-gem 'mini_magick'
-gem 'aws-sdk'
-gem 'eventmachine'
