@@ -3,6 +3,3 @@ start::
 
 deploy::
 	eb deploy
-
-localtest::
-	@./localtest.sh
